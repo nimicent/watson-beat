@@ -31,7 +31,7 @@ numpy
 python-midi
 requests
 
-#### MAC OS
+### MAC OS
 How to Install python on osx:
 http://docs.python-guide.org/en/latest/starting/install/osx/
 
@@ -59,7 +59,7 @@ How to install pip in osx
 a) sudo easy_install pip
 
 
-#### Linux
+### Linux
 How to install python in ubuntu linux:
 
 From source: https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/
