@@ -1,6 +1,24 @@
 Watson Beat Developer Repo Initial Setup
 ========================================
 
+Its not necessary, but to just make sure everyone is on the same page, please make sure you have downloaded the Watson Beat project before proceeding.
+
+Go to A. if your operating system is Windows.
+Go to B. if your operating system is anything other than Windows.
+
+## A. Windows
+
+1. Go to your Start Menu, type in the search "cmd". Right click on it, and "Run as Administrator". 
+2. First, make sure if python has been installed at any point in time. type ```python -V```
+3. If you had a ```python is not recognized as an internal or external command``` error then we need to install python!
+
+* If you did get a Python version, check if it is Python 2.7. Note: If your Python version is Python 3, you will have to complete an additional step. First, install [Pip](https://bootstrap.pypa.io/get-pip.py) and then install [virtualenv](https://fernandofreitasalves.com/virtualenv-tutorial-for-beginners-windows/), then proceed.
+
+4. To install Python and Pip, go through these detailed steps here - [Set up Python and Pip](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)
+
+5. Remember to open a new command prompt ("cmd" from Step 1) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
+
+
 Pre-reqs
 
 python
