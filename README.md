@@ -90,7 +90,12 @@ To pass in specific midi and ini files use the following syntax:
 Putting it together
 -------------------
 This is where you get to have some fun! Now, you have a set of midi files, you can use your favorite 
-audio tools to apply virtual instruments to the sections and mix them together into a song.  
+audio tools to apply virtual instruments to the sections and mix them together into a song. 
+
+Audio Tools
+-------------------
+Unix: [Download Garageband](https://www.apple.com/mac/garageband/)
+Windows, Linux: [You can use MuseScore](https://musescore.org/en/download)
 
 HAPPY COMPOSING!
 
