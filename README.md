@@ -33,10 +33,14 @@ Press the green button, then press "Download ZIP"
 
 ![image](https://i.imgur.com/dIQROX2.png)
 
-Set you machine up for dev - if you are a first timer!
+2. If you know basic commands for the operating system you are working on, ```cd``` into the project folder you downloaded.
+
+If you do not know terminal commands, you are about to learn them! Follow this link: [Instructions on calling the directory](https://github.com/watson-music/watson-beat/blob/master/directory.md)
+
+
+Set you machine up for development
 ------------------------------------------------------
-[Here are some directions to get your machine set up to run code](./initial_setup.md), or 
-just google it!  You will also need to copy this code repository to your computer.
+[Here are some directions to get your machine set up to run code](./initial_setup.md) 
 
 
 Install Project Level Dependencies
