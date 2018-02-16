@@ -1,7 +1,7 @@
 Watson Beat Developer Repo Initial Setup
 ========================================
 
-Its not necessary, but to just make sure everyone is on the same page, please make sure you have downloaded the Watson Beat project before proceeding.
+Just make sure everyone is on the same page, please make sure you have downloaded the Watson Beat project before proceeding.
 
 Go to A. if your operating system is Windows.
 Go to B. if your operating system is anything other than Windows.
@@ -19,6 +19,7 @@ Go to B. if your operating system is anything other than Windows.
 5. Remember to open a new command prompt ("cmd" from Step 1) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
 
 
+
 Pre-reqs
 
 python
@@ -33,11 +34,9 @@ requests
 
 How to Install python on osx:
 http://docs.python-guide.org/en/latest/starting/install/osx/
-a) Install C compiler
 
-xcode-select --install
 
-b) Install homebrew
+a) Install homebrew
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
