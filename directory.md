@@ -27,6 +27,12 @@ Lets go to the project. I am assuming that this project is in the Downloads fold
 
 ```cd Downloads```
 
+What is the project folder you extracted called? Mine is `watson-beat-master`. 
+
+```cd [PROJECT FOLDER]```
+
+There you have it! You can now go back to the [project directory](https://github.com/watson-music/watson-beat) and proceed with the tutorial.
+
 
 
 
