@@ -22,6 +22,17 @@ Getting Started
 This repo, is all the code for the The Watson Beat.  It all runs locally using 
 the terminal.  To run it, there are a few things you need set up on your local computer first, like python 🐍!
 
+Download the Watson Beat Project
+=================================
+
+1. Go to the landing page for the Watson Beat repository, [here is a link to it.](https://github.com/watson-music/watson-beat)
+</br>
+Press the green button, then press "Download ZIP"
+
+![image](https://i.imgur.com/VqyNwuF.jpg)
+
+![image](https://i.imgur.com/dIQROX2.png)
+
 Set you machine up for dev - if you are a first timer!
 ------------------------------------------------------
 [Here are some directions to get your machine set up to run code](./initial_setup.md), or 
