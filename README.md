@@ -29,6 +29,12 @@ Download the Watson Beat Project
 </br>
 Press the green button, then press "Download ZIP"
 
+Do you have anything to unzip ZIP files on your computer? 
+
+If not, you can find one on [FileHippo](https://filehippo.com/software/archiving/) like 7Zip.
+
+Please unzip the project folder from here using what program you have to perform this extraction.
+
 ![image](https://i.imgur.com/VqyNwuF.jpg)
 
 ![image](https://i.imgur.com/dIQROX2.png)
