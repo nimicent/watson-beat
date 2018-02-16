@@ -18,7 +18,7 @@ Go to B. if your operating system is anything other than Windows.
 
 5. Remember to open a new command prompt ("cmd" from Step 1) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
 
-
+## B. Not Windows
 
 Pre-reqs
 
