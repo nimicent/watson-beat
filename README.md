@@ -1,5 +1,8 @@
-The Watson Beat
+The Watson Beat - Julia's Edit
 ===============
+
+If you are a beginner - I will provide guidance for Windows and Mac OS. 
+If you have Linux, I am going to make a vote of confidence and assume you know where your terminal is.
 
 Using machine learning to spur human creativity is _so_ 2018!  Watson has used
 a combination of reinforcement learning and neural networks to create the Watson Beat.
@@ -17,30 +20,17 @@ Outputs
 Getting Started
 ===============
 This repo, is all the code for the The Watson Beat.  It all runs locally using 
-the terminal.  To run it, there are a few things you need set up on your local computer first, like python 🐍!,
-and a basic familiarity with `git`.
+the terminal.  To run it, there are a few things you need set up on your local computer first, like python 🐍!
 
 Set you machine up for dev - if you are a first timer!
 ------------------------------------------------------
 [Here are some directions to get your machine set up to run code](./initial_setup.md), or 
-just google it!  You will also need to copy this code repository to your computer, 
-
-Use Git
--------
-To get the code on your computer you will need to `git clone` this repo.
-[Here](https://guides.github.com/introduction/git-handbook/) is some great documentation on git for new comers.
-Also, if you want to make contributions to the code base, we are very willing to review 
-merge requests (see [forking](https://guides.github.com/activities/forking/)). 
-All pull requests and commits to branches intended for release must acknowledge the
-[Developer Certificate of Origin](https://elinux.org/Developer_Certificate_Of_Origin)
-by including the one liner: `DCO 1.1 Signed-off-by: {Full Name} <{email address}>` (without the {})
+just google it!  You will also need to copy this code repository to your computer.
 
 
 Install Project Level Dependencies
 ----------------------------------
-So, you just spent half an hour setting your machine up for python, and I'm telling you there is more set-up?
-Yep!  Welcome to the wonderful world of code.  Open your terminal, and navigate to the directory you
-created with your `git clone` command.  If you do an `ls` you should see this file, `README.md`, and the
+Open your terminal, and navigate to the directory where your Watson Beat downloaded project is on your computer.  If you do an `ls` you should see this file, `README.md`, and the
 specfic python requirements for this project are in `requirements.txt`.  
 You can install the specific python packages you need for your
 Watson Beat Client with the following command (again, make sure you are in this directory):
