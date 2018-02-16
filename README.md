@@ -26,8 +26,8 @@ Download the Watson Beat Project
 =================================
 
 1. Go to the landing page for the Watson Beat repository, here is a link to the 'root' directory for the project.
-</br>
-[open this link in a new tab.](https://github.com/watson-music/watson-beat)
+<br></br>
+[Open this link in a new tab.](https://github.com/watson-music/watson-beat)
 </br>
 Press the green button, then press "Download ZIP"
 
