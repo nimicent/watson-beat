@@ -175,9 +175,9 @@ Using the example above, formulate your own command! Remember to see the full pa
 
 Now go look in that output folder you specified in your command? See a bunch of files?!!!!
 
-Step Seven: You now have a song from Watson. Open the auio editor per your operating system or Soundation!
+Step Seven: You now have a song from Watson. Open the audio editor per your operating system or Soundation!
 --------------
-
+You should have a slew of files like this, let this list below be a guide as far as the virtual instruments you apply to make your songs in the next steps!!!
 
 ![image](https://i.imgur.com/BkhFTJG.png)
 
