@@ -153,9 +153,27 @@ Okay so we are all set for neatly output of files from Watson!
   <br><br>
   <img src="https://static1.squarespace.com/static/583da8fdebbd1ac168f74fcb/t/59091c6bf5e2314ab7962653/1495035470825/Music-2-Color-Theory-3.gif">
 </p><hr/>
+Here is the command from the terminal we will be entering with your selected `MIDI` and `ini` and output folder you made!
 
+```
+python wbDev.py [-i INIFILE] [-m MIDIFILEPATH] [-o OUTPUTPATH]
+```
+<br></br>
 
+In your `/src` directory, you should see this `wbDev.py` file. You should be in the directory in which if you `dir` (for Windows) or `ls` for UNIX, you should see this file. 
+<br></br>
 
+Now lets formulate your command here. Here is an example of what I did.
+<br></br>
+
+`python wbDev.py -i Ini/Space.ini -m Midi/reaper_ellie.mid -o /Users/jrnash/Documents/watson-beat-master/src/music/song-three/`
+<br></br>
+
+Using the example above, formulate your own command! Remember to see the full path of your output folder, you can `cd` on Windows per where that folder is located, or `pwd` the path per where that folder is located.
+
+<br></br>
+
+Now go look in that output folder you specified in your command? See a bunch of files?!!!!
 
 Step Seven: You now have a song from Watson. Open the auio editor per your operating system or Soundation!
 --------------
