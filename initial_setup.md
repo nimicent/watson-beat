@@ -19,7 +19,7 @@ Go to B. if your operating system is anything other than Windows.
 
 4. To install Python and Pip, go through these detailed steps here - [Set up Python and Pip](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)
 
-5. Remember to open a new command prompt ("cmd" from Step 1) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
+5. Open a new command prompt ("cmd" from Step 1, yes you need to open a new terminal to see if it was installed per your commands in the other terminal) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
 
 Once you have this done, you can install the dependencies for the project to run!
 
