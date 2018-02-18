@@ -24,6 +24,8 @@ Once you have this done, you can install the dependencies for the project to run
 
 6. `pip install numpy python-midi requests`
 
+You are done with this step! 
+
 
 ## B. Not Windows
 
@@ -70,16 +72,29 @@ a) sudo easy_install pip
 How to Install Python on Mac:
 http://docs.python-guide.org/en/latest/starting/install/osx/
 
+#### Install dependencies for the project
+
+`pip install numpy python-midi requests`
+
+you are done with this step!
 
 ### Linux
-How to install python in ubuntu linux:
 
-From source: https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/
+Okay, I am assuming you know a bit of what you are doing per you using Linux
 
-a) install dependencies
-sudo apt-get update ; sudo apt-get install build-essential checkinstall ; sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+#### How to install Python in ubuntu linux:
 
-b) download source
+Follow these directions: https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/
+Listed below are the directions per this link given.
+
+a) Install dependencies
+`sudo apt-get update` 
+<br>
+`sudo apt-get install build-essential checkinstall`
+<br>
+`sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev`
+
+b) Download source
 
 cd /usr/src ; wget https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz ; tar xzf Python-2.7.13.tgz
 
@@ -101,5 +116,12 @@ or using apt-get
 
 a)sudo apt-get install python2.7
 
-Now, go back to the [README](./README.md)
+#### Install pip
 
+https://tecadmin.net/install-pip-linux/
+
+#### Install dependencies
+
+`pip install numpy python-midi requests`
+
+you are done with this step!
