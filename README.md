@@ -156,16 +156,12 @@ Here is the command from the terminal we will be entering with your selected `MI
 ```
 python wbDev.py [-i INIFILE] [-m MIDIFILEPATH] [-o OUTPUTPATH]
 ```
-<br></br>
 
 In your `/src` directory, you should see this `wbDev.py` file. You should be in the directory in which if you `dir` (for Windows) or `ls` for UNIX, you should see this file. 
-<br></br>
 
 Now lets formulate your command here. Here is an example of what I did.
-<br></br>
 
 `python wbDev.py -i Ini/Space.ini -m Midi/reaper_ellie.mid -o /Users/jrnash/Documents/watson-beat-master/src/music/song-three/`
-<br></br>
 
 Using the example above, formulate your own command! Remember to see the full path of your output folder, you can `cd` on Windows per where that folder is located, or `pwd` the path per where that folder is located.
 
