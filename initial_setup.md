@@ -22,11 +22,8 @@ Go to B. if your operating system is anything other than Windows.
 
 Once you have this done, you can install the dependencies for the project to run!
 
-6. `pip install numpy`
+6. `pip install numpy python-midi requests`
 
-7. `pip install python-midi`
-
-8. `pip install requests`
 
 ## B. Not Windows
 
@@ -42,11 +39,8 @@ python-midi
 requests
 
 ### MAC OS
-How to Install Python on Mac:
-http://docs.python-guide.org/en/latest/starting/install/osx/
 
-
-### Install homebrew
+#### Install homebrew
 
 Directions were found [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html), as listed below
 
@@ -56,14 +50,10 @@ Directions were found [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.h
 
 `echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
 
-3. 
+3. Execute the command `brew` in terminal window and see if you get a bunch of information pertaining to `brew`, if you do - homebrew installed correctly!
 
 
-Add the following line to the bottom of the  ~/.profile file
-
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
-
-c) Install python
+#### Install python
 
 brew install python
 
@@ -73,9 +63,12 @@ python -V
 
 This command should give you the python version
 
-How to install pip in osx
+#### Install pip
 
 a) sudo easy_install pip
+
+How to Install Python on Mac:
+http://docs.python-guide.org/en/latest/starting/install/osx/
 
 
 ### Linux
