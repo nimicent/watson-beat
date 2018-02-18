@@ -107,13 +107,56 @@ For now, choose by keyword from the different ini files in your project director
 <br></br>
 ![image](https://i.imgur.com/cckJPaw.png)
 
-Here are 
+<br></br>
+
+Make a note on the ini file you have selected!!!
 
 
 
 
-Step Six: Create a folder for music and run terminal command with MIDI and ini selected
+Step Five: Create a folder for music and run terminal command with MIDI and ini selected
 ------------
+
+1. Go back to the terminal that has your project directory we went into in regards to Step One.
+<br></br>
+
+Windows: type `cd` only. This shows you where you are right now in regards to directories. Are you in the `/src` directory? If not, `cd src`. 
+<br></br>
+ 
+UNIX people: type `pwd` to see your path. Are you in the `/src` directory? If not, `cd src` within your project directory.
+<br></br>
+
+From here, you are going to make a directory for your own music Watson processes! Then from there, you make your own jams with Watson in the audio editors! 
+
+<br></br>
+
+For every operating system in this tutorial, `mkdir [PICK A NAME FOR YOUR MUSIC DIRECTORY]`. 
+
+For example, my music directory is creatively called `music`
+
+<br></br>
+
+2. Now, `cd [NEW MUSIC DIRECTORY]`. You might have a few songs you want to do with Watson. So what I did was made folders per the output Watson gives me for each song. So you can do what I did and make another directory for your first song!
+<br></br>
+`mkdir [FIRST SONG NAME]`
+<br></br>
+My first song's directory is called `first_song`. 
+<br></br>
+UNIX NOTE: If you want whitespace in your directory's name, for UNIX you can `Tab` after using a few of the letters of the directory's name when in the terminal or you can escape the whitespace via terminal with a backspace `\` for the whitespace. 
+<br></br>
+
+Okay so we are all set for neatly output of files from Watson!
+
+#### 3. MAKING YOUR SONG!!!!
+
+<p align="center">
+  <b>For his hit single "Not Easy" featuring Wiz Khalifa, Alex Da Kid used Watson to analyze the composition of five years’ worth of Billboard songs, as well as cultural artifacts such as newspaper articles, film, and social media.</b><br><br>
+  <b>The idea was to understand the “emotional temperature”, and use this to inform Alex’s creative process.</b><br>
+  <br><br>
+  <img src="https://static1.squarespace.com/static/583da8fdebbd1ac168f74fcb/t/59091c6bf5e2314ab7962653/1495035470825/Music-2-Color-Theory-3.gif">
+</p><hr/>
+
+
 
 
 Step Seven: You now have a song from Watson. Open the auio editor per your operating system or Soundation!
