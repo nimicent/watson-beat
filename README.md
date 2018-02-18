@@ -191,7 +191,7 @@ Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](htt
 
 GARAGEBAND
 ----------
-Unix: [Download Garageband](https://www.apple.com/mac/garageband/)
+Mac: [Download Garageband](https://www.apple.com/mac/garageband/)
 
  You can drag and drop your MIDI files from Watson into Garageband!
 <br></br>
