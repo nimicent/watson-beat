@@ -162,21 +162,25 @@ Now lets formulate your command here. Here is an example of what I did.
 
 Using the example above, formulate your own command! Remember to see the full path of your output folder, you can `cd` on Windows per where that folder is located, or `pwd` the path per where that folder is located.
 
-Now go look in that output folder you specified in your command? See a bunch of files?!!!!
+Now go look in that output folder you specified in your command? See a bunch of files?!!
 
 Step Seven: You now have a song from Watson. Open the audio editor per your operating system or Soundation!
 --------------
-You should have a slew of files like this, let this list below be a guide as far as the virtual instruments you apply to make your songs in the next steps!!!
+You should have a slew of files like this now.
 
+Let this list below be a guide as far as the virtual instruments you apply to make your songs in the next steps!
+<br></br>
 ![image](https://i.imgur.com/BkhFTJG.png)
 
 Step Eight: Import MIDI files from Watson to audio editor
 -------------
 
 All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome
-
+<br></br>
 Mac: Garageband
+<br></br>
 Windows: Mixcraft
+<br></br>
 Linux: Soundation
 
 SOUNDATION 
