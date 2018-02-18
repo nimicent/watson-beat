@@ -77,13 +77,6 @@ Step Two: Set up for development
 [Here are some directions to get your machine set up to run code](./initial_setup.md) 
 
 
-Step Three: Install Project Level Dependencies
-----------------------------------
-Open your terminal, and navigate to the directory where your Watson Beat downloaded project is on your computer.  
-You can install the specific python packages you need for your
-Watson Beat Client with the following command (again, make sure you are in the project directory):
-
-`pip install -r requirements.txt`
 
 Step Four: Choose a song (`MIDI` file)
 ------------------------------
