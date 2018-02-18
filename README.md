@@ -89,16 +89,17 @@ NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digita
 <br></br>
 So look into this directory outside of your terminal! Since we have already established where this is on your system by going through this via your terminal, it should be fairly easy for you to find in your file system! If not, you can likely search for it by the keyword 'midi'. When you click on them, do they play? If not, no worries, I will show you how to play them.
 <br></br>
-3. [TO PLAY MIDI Files]: Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
+3. [TO PLAY MIDI FILES]: Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
 <br></br>
 Following this image below, open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
 <br></br>
 ![image](https://i.imgur.com/tTl1eO5.png)
-
-Have in mind which song you want to choose yet?
+<br></br>
+Have in mind which song you want to choose yet? Record this as a note of which MIDI file you want Watson to interprete!
 
 Step Five: Choose how Watson interpretes your song (`ini` file)
 --------------------
+![image](https://i.imgur.com/vYTCmgk.png)
 
 
 Step Six: Create a folder for music and run terminal command with MIDI and ini selected
