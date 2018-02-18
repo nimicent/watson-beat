@@ -3,6 +3,8 @@ Watson Beat Developer Repo Initial Setup
 
 Just make sure everyone is on the same page, please make sure you have downloaded the Watson Beat project before proceeding.
 
+Anytime `you see something in gray like this` that indicates its a terminal command for you to execute
+
 Go to A. if your operating system is Windows.
 Go to B. if your operating system is anything other than Windows.
 
@@ -48,10 +50,13 @@ http://docs.python-guide.org/en/latest/starting/install/osx/
 
 Directions were found [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html), as listed below
 
-1. ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+1. `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-2. One thing we need to do is tell the system to use programs installed by Hombrew (in /usr/local/bin) rather than the OS default if it exists. We do this by adding /usr/local/bin to your $PATH environment variable:
+2. "One thing we need to do is tell the system to use programs installed by Hombrew (in /usr/local/bin) rather than the OS default if it exists. We do this by adding /usr/local/bin to your $PATH environment variable":
 
+`echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
+
+3. 
 
 
 Add the following line to the bottom of the  ~/.profile file
