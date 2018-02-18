@@ -173,22 +173,29 @@ Step Eight: Import MIDI files from Watson to audio editor
 
 All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome
 
-SOUNDATION: Using the image from Soundation above, you can import several MIDI files into Soundation
+Mac: Garageband
+Windows: Mixcraft
+Linux: Soundation
+
+SOUNDATION 
 ----------
+Using the image from Soundation above, you can import several MIDI files into Soundation
 <br></br>
 Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
 
-GARAGEBAND: You can drag and drop your MIDI files from Watson into Garageband!
+GARAGEBAND
 ----------
+ You can drag and drop your MIDI files from Watson into Garageband!
 <br></br>
 This is for Mac users only: Go to App Store and search for Garageband, its a free download. :)
 
 ![image](https://i.imgur.com/CGRUJcd.jpg)
 <br></br>
 
-MIXCRAFT (Download: 7 minutes) 
+MIXCRAFT
 -------------
-
+(Download: 7 minutes) 
+ 
 You can drag and drop your MIDI files into Mixcraft as well!
 
 
