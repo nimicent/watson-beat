@@ -6,6 +6,7 @@ Just make sure everyone is on the same page, please make sure you have downloade
 Anytime `you see something in gray like this` that indicates importance or its a terminal command for you to execute
 
 Go to A. if your operating system is Windows.
+<br>
 Go to B. if your operating system is anything other than Windows.
 
 ## A. Windows
