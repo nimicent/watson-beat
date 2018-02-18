@@ -23,23 +23,17 @@ Go to B. if your operating system is anything other than Windows.
 
 Once you have this done, you can install the dependencies for the project to run!
 
-6. `pip install numpy python-midi requests`
+6. Navigate to the terminal where we had you `cd [PROJECT DIRECTORY]`
+Type `dir`, do you see in this list of the contents of your directory a file called `requirements.txt`?
+If so, great! Lets install requirements.
+
+`pip install -r requirements.txt`
+
 
 You are done with this step! 
 
 
 ## B. Not Windows
-
-Pre-reqs
-
-python
-pip
-
-Dependencies
-
-numpy
-python-midi
-requests
 
 ### MAC OS
 <hr>
@@ -76,7 +70,11 @@ http://docs.python-guide.org/en/latest/starting/install/osx/
 
 #### Install dependencies for the project
 
-`pip install numpy python-midi requests`
+Navigate to the terminal where we had you `cd [PROJECT DIRECTORY]`
+Type `ls`, do you see in this list of the contents of your directory a file called `requirements.txt`?
+If so, great! Lets install requirements.
+
+`pip install -r requirements.txt`
 
 you are done with this step!
 
@@ -125,6 +123,12 @@ https://tecadmin.net/install-pip-linux/
 
 #### Install dependencies
 
-`pip install numpy python-midi requests`
+Navigate to the terminal where we had you `cd [PROJECT DIRECTORY]`
+Type `ls`, do you see in this list of the contents of your directory a file called `requirements.txt`?
+If so, great! Lets install requirements.
+
+`pip install -r requirements.txt`
+
+you are done with this step!
 
 you are done with this step!
