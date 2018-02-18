@@ -5,25 +5,23 @@ The Watson Beat Workshop
 
 Step 1: Download the project
 <br>
-Step 2: Set up for development
+Step 2: Set up for development and install dependencies
 <br>
-Step 3: Install Dependencies
+Step 3: Choosing a song (MIDI file)!
 <br>
-Step 4: Choosing a song (MIDI file)!
+Step 4: Choose how Watson interpretes your song (ini file!)
 <br>
-Step 5: Choose how Watson interpretes your song (ini file!)
+Step 5: Create a folder for music and run terminal command with MIDI and ini selected
 <br>
-Step 6: Create a folder for music and run terminal command with MIDI and ini selected
+Step 6: You now have a song from Watson. Open the auio editor
 <br>
-Step 7: You now have a song from Watson. Open the auio editor
+Step 7: Import MIDI files from Watson to audio editor
 <br>
-Step 8: Import MIDI files from Watson to audio editor
+Step 8: Apply virtual instruments to the song 
 <br>
-Step 9: Apply virtual instruments to the song 
+Step 9: Export the file as a .wav or .mp3
 <br>
-Step 10: Export the file as a .wav or .mp3
-<br>
-Optional: Listen to it 800 times, email it to friends & fam or put on resume "made music with Watson DBN"!
+Step 10: Listen to it 800 thousand times, email it to friends & fam or put on your resume "made music with Watson DBN"!
 <br>
 
 
