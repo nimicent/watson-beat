@@ -87,7 +87,9 @@ NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digita
 <br>
 2. Pick a song! It might be hard to do without knowing what the song sounds like though.
 
-So following this image below, open File and "Import MIDI file". 
+So open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
+
+Following this image below, open File and "Import MIDI file". 
 
 [FileHippo](https://filehippo.com/software/archiving/) 
 
