@@ -206,13 +206,13 @@ You can drag and drop your MIDI files into Mixcraft as well!
 
 Step Nine: Apply virtual instruments to the song 
 --------------
-Soundation, here is an image to show how to add new instruments
+**Soundation**, here is an image to show how to add new instruments
 <br></br>
 ![image](https://i.imgur.com/48aeSqq.png)
 <br></br>
-Mixcraft, this is the "keyboard icon" per your track, [example image](https://i.ytimg.com/vi/Wavm-97Dl6U/maxresdefault.jpg)
+**Mixcraft**, this is the "keyboard icon" per your track, [example image](https://i.ytimg.com/vi/Wavm-97Dl6U/maxresdefault.jpg)
 
-Garageband, this is super-easy! Its in the library on the lefthand side of your screen. Then you can even download new instruments too. 
+**Garageband**, Its in the library on the lefthand side of your screen. Then you can even download new instruments too. 
 
 Step Ten: Export the file
 --------------
