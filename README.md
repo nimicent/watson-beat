@@ -150,8 +150,6 @@ Okay so we are all set for neatly output of files from Watson!
 #### 3. MAKING YOUR SONG!!!!
 
 <p align="center">
-  <b>For his hit single "Not Easy" featuring Wiz Khalifa, Alex Da Kid used Watson to analyze the composition of five years’ worth of Billboard songs, as well as cultural artifacts such as newspaper articles, film, and social media.</b><br><br>
-  <b>The idea was to understand the “emotional temperature”, and use this to inform Alex’s creative process.</b><br>
   <br><br>
   <img src="https://static1.squarespace.com/static/583da8fdebbd1ac168f74fcb/t/59091c6bf5e2314ab7962653/1495035470825/Music-2-Color-Theory-3.gif">
 </p><hr/>
