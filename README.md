@@ -111,9 +111,6 @@ For now, choose by keyword from the different ini files in your project director
 
 Make a note on the ini file you have selected!!!
 
-
-
-
 Step Five: Create a folder for music and run terminal command with MIDI and ini selected
 ------------
 
@@ -127,8 +124,6 @@ UNIX people: type `pwd` to see your path. Are you in the `/src` directory? If no
 <br></br>
 
 From here, you are going to make a directory for your own music Watson processes! Then from there, you make your own jams with Watson in the audio editors! 
-
-<br></br>
 
 For every operating system in this tutorial, `mkdir [PICK A NAME FOR YOUR MUSIC DIRECTORY]`. 
 
@@ -165,8 +160,6 @@ Now lets formulate your command here. Here is an example of what I did.
 
 Using the example above, formulate your own command! Remember to see the full path of your output folder, you can `cd` on Windows per where that folder is located, or `pwd` the path per where that folder is located.
 
-<br></br>
-
 Now go look in that output folder you specified in your command? See a bunch of files?!!!!
 
 Step Seven: You now have a song from Watson. Open the audio editor per your operating system or Soundation!
@@ -181,12 +174,12 @@ Step Eight: Import MIDI files from Watson to audio editor
 All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome
 
 SOUNDATION: Using the image from Soundation above, you can import several MIDI files into Soundation
-========
+----------
 <br></br>
 Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
 
 GARAGEBAND: You can drag and drop your MIDI files from Watson into Garageband!
-=========
+----------
 <br></br>
 This is for Mac users only: Go to App Store and search for Garageband, its a free download. :)
 
@@ -194,16 +187,16 @@ This is for Mac users only: Go to App Store and search for Garageband, its a fre
 <br></br>
 
 MIXCRAFT (Download: 7 minutes) 
-==========
+-------------
 
 You can drag and drop your MIDI files into Mixcraft as well!
---------------------
+
 
 [Download Mixcraft](https://www.acoustica.com/mixcraft/download.php)
 <br></br>
 
 Step Nine: Apply virtual instruments to the song 
-==============
+--------------
 Soundation, here is an image to show how to add new instruments
 <br></br>
 ![image](https://i.imgur.com/48aeSqq.png)
