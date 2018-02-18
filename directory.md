@@ -3,7 +3,7 @@
 
 We are now going to "go into" (or call) the folder (the directory) we downloaded for Watson Beat.
 
-Still have that terminal up and ready? If not, go to your Start Menu, and type "cmd". Right click to "Run as Administrator".
+Go to your Start Menu, and type "cmd". Right click to "Run as Administrator".
 
 Command ```cd \```
 
@@ -42,4 +42,36 @@ There you have it! You can now go back to the [project directory](https://github
 
 
 
-## Project Directory [Mac, Linux]
+## Project Directory [Mac]
+<hr>
+
+We are now going to "go into" (or call) the folder (the directory) we downloaded for Watson Beat.
+
+A) Open your terminal, so for Mac: Go to your Finder and select "Applications" and then the "Utilities" as shown.
+<br>
+ ![image](https://i.imgur.com/YmDAvPG.png)
+<br>
+From here, you should see your Terminal window (black box)
+
+Optional) Open this up and type `sudo -s` to become a superuser for this session.
+
+B) Type `pwd` in your terminal to see where you are now on your computer. Then `ls` to get a list of your directory you are in.
+
+You should see `Downloads` here. This is (I am assuming out of sake of example) where your download of the project is located.
+
+So, `cd Downloads` or if you placed the project on your `Desktop` or anywhere else, `cd [PROJECT LOCATION]`
+
+NOTE: "cd" stands for "call directory". The terminal is case-sensitive, so mind you p and Q's. "Folder" same as "Directory".
+
+C) Okay, are you in the correct directory per where your project was downloaded? My project folder is called `watson-beat-master`, yours should be the same. If not, see what the name of the folder you downloaded and decompressed is.
+
+D) Now `cd [PROJECT DIRECTORY]`
+
+
+
+# Linux
+<hr>
+
+Open your terminal per searching for it, opening your overview of applications on lefthand side, or if you have it pinned. 
+
+`cd` to the root directory for this project.
