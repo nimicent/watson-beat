@@ -18,6 +18,14 @@ Go to B. if your operating system is anything other than Windows.
 
 5. Remember to open a new command prompt ("cmd" from Step 1) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
 
+Once you have this done, you can install the dependencies for the project to run!
+
+6. `pip install numpy`
+
+7. `pip install python-midi`
+
+8. `pip install requests`
+
 ## B. Not Windows
 
 Pre-reqs
@@ -32,13 +40,19 @@ python-midi
 requests
 
 ### MAC OS
-How to Install python on osx:
+How to Install Python on Mac:
 http://docs.python-guide.org/en/latest/starting/install/osx/
 
 
-a) Install homebrew
+### Install homebrew
 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Directions were found [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html), as listed below
+
+1. ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+2. One thing we need to do is tell the system to use programs installed by Hombrew (in /usr/local/bin) rather than the OS default if it exists. We do this by adding /usr/local/bin to your $PATH environment variable:
+
+
 
 Add the following line to the bottom of the  ~/.profile file
 
