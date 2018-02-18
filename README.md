@@ -25,10 +25,8 @@ the terminal.  To run it, there are a few things you need set up on your local c
 Download the Watson Beat Project
 =================================
 
-1. Go to the landing page for the Watson Beat repository, here is a link to the 'root' directory for the project.
-<br></br>
-[Open this link in a new tab.](https://github.com/watson-music/watson-beat)
-</br>
+1. Go to the top of this page for the Watson Beat repository, and download it. Images of how to do this are below.
+
 Press the green button, then press "Download ZIP"
 
 Do you have anything to unzip ZIP files on your computer? 
