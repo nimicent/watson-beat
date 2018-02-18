@@ -185,6 +185,8 @@ Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](htt
 
 GARAGEBAND
 ----------
+Unix: [Download Garageband](https://www.apple.com/mac/garageband/)
+
  You can drag and drop your MIDI files from Watson into Garageband!
 <br></br>
 This is for Mac users only: Go to App Store and search for Garageband, its a free download. :)
@@ -212,71 +214,17 @@ Mixcraft, this is the "keyboard icon" per your track, [example image](https://i.
 
 Garageband, this is super-easy! Its in the library on the lefthand side of your screen. Then you can even download new instruments too. 
 
-Step Ten: Export the file and mark your mark on music history for artificial intelligence development
+Step Ten: Export the file
 --------------
+.... and mark your mark on music history for artificial intelligence development!
+
+Soundation: Export by going up to `File` in the navigation bar and click `Export to .wav file`
+
+Garageband: Go to `Share` in your navigation bar and click `Export Song to Disk` or any of the other options
+
+Mixcraft: Go to `File` in your navigation bar and click `Mix Down To` and select with audio file you want to do this.
 
 
-
-
-
-Ready to Run
-------------
-There are two main ingredients to prepare to create your song with The Watson Beat.  First, you need
-a midi file with a simple melody.  Best results come when you keep this short, about 10 seconds.  Also,
-leave some space between your notes to give the creativity engine some wiggle room.
-
-The second ingredient is the `ini` file.  The `ini` file give the creativity engine all of the spices
-to use, including time signature, "mood," and tempo.  [Read this to learn more about ini files](./customize_ini.md).
-
-
-```
-Usage:
-usage: wbDev.py [-h] [-i INIFILE] [-m MIDIFILEPATH] [-o OUTPUTPATH] [-u]
-
-optional arguments:
-
-  -h               show this help message and exit
-
-  -i INIFILE       Store the ini File
-
-  -m MIDIFILEPATH  Midi File Path
-
-  -o OUTPUTPATH    Path were all the output mid files are stored (default ./output/)
-
-  -u               usage
-```
-
-To run, clone this git project in your filesystem if you haven't already.  Open a terminal window, navigate to the 
-project home `$WB_HOME` (for example, this might be `/Users/Moe/watson-beat`)
-
-`cd $WB_HOME/src` 
-
-Now, in the current working directory, there is a python script that will call the code, `wbDev.py` with the
-parameters you pass it. To get help, just pass it the `-h` flag:
-
-`python wbDev.py -h`
-
-If you pass it no paramaters, 
-
-`python wbDev.py`
-
-it will use the default Ini file `$WB_HOME/src/Ini/Space.ini`, the default midi
-file `$WB_HOME/src/Midi/mary.mid`, and output all the files to `./output/`
-
-To pass in specific midi and ini files use the following syntax:
-
-`python wbDev.py -i Ini/ReggaePop.ini -m Midi/mary.mid -o /Users/Moe/midifiles/`
-
-
-Putting it together
--------------------
-This is where you get to have some fun! Now, you have a set of midi files, you can use your favorite 
-audio tools to apply virtual instruments to the sections and mix them together into a song. 
-
-Audio Tools
--------------------
-Unix: [Download Garageband](https://www.apple.com/mac/garageband/)
-Windows, Linux: [You can use MuseScore](https://musescore.org/en/download)
 
 HAPPY COMPOSING!
 
