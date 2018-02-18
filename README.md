@@ -4,15 +4,26 @@ The Watson Beat - Julia's Edit
 ## AGENDA
 
 Step 1: Download the project
+<br>
 Step 2: Start using your terminal
+<br>
 Step 3: Install Dependencies
+<br>
 Step 4: Choosing a song (MIDI file)!
+<br>
 Step 5: Choose how Watson interpretes your song (ini file!)
+<br>
 Step 6: Create a folder for music and run terminal command with MIDI and ini selected
+<br>
 Step 7: You now have a song from Watson. Open the auio editor
+<br>
 Step 8: Import MIDI files from Watson to audio editor
+<br>
 Step 9: Apply virtual instruments to the song 
+<br>
 Step 10: Export the file as a .wav or .mp3 and email it to friends & fam or put on resume "made music with Watson DBN"!
+<br>
+
 
 If you are a beginner - I will provide guidance for Windows and Mac OS. 
 If you have Linux, I am going to make a vote of confidence and assume you know where your terminal is.
