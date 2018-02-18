@@ -76,7 +76,7 @@ Step Two: Set up for development
 
 
 
-Step Four: Choose a song (`MIDI` file)
+Step Three: Choose a song (`MIDI` file)
 ------------------------------
 
 1. In your terminal where you are in your project directory, `cd src`. 
@@ -97,9 +97,19 @@ Following this image below, open File and "Import MIDI file". Then press the PLA
 <br></br>
 Have in mind which song you want to choose yet? Record this as a note of which MIDI file you want Watson to interprete!
 
-Step Five: Choose how Watson interpretes your song (`ini` file)
+Step Four: Choose how Watson interpretes your song (`ini` file)
 --------------------
-![image](https://i.imgur.com/vYTCmgk.png)
+There are two main ingredients to prepare to create your song with The Watson Beat. First, you need a midi file with a simple melody. Best results come when you keep this short, about 10 seconds. Also, leave some space between your notes to give the creativity engine some wiggle room.
+<br></br>
+The second ingredient is the ini file. The ini file give the creativity engine all of the spices to use, including time signature, "mood," and tempo. [Reference to advanced usage of ini that is not a part of tutorial](https://github.com/cognitive-catalyst/watson-beat/blob/master/customize_ini.md)
+<br></br>
+For now, choose by keyword from the different ini files in your project directory for sake of simplicity! The folder with `ini` files is within the `src` directory.
+<br></br>
+![image](https://i.imgur.com/cckJPaw.png)
+
+Here are 
+
+
 
 
 Step Six: Create a folder for music and run terminal command with MIDI and ini selected
@@ -108,6 +118,9 @@ Step Six: Create a folder for music and run terminal command with MIDI and ini s
 
 Step Seven: You now have a song from Watson. Open the auio editor per your operating system or Soundation!
 --------------
+
+
+![image](https://i.imgur.com/BkhFTJG.png)
 
 Step Eight: Import MIDI files from Watson to audio editor
 -------------
