@@ -97,25 +97,25 @@ a) Install dependencies
 
 b) Download source
 
-cd /usr/src ; wget https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz ; tar xzf Python-2.7.13.tgz
+`cd /usr/src ; wget https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz ; tar xzf Python-2.7.13.tgz`
 
 c) compile python source
 
-cd Python-2.7.13
+`cd Python-2.7.13`
 
-sudo ./configure
+`sudo ./configure`
 
-sudo make install
+`sudo make install`
 
 d) check the python version
 
-python -V
+`python -V`
 
 This command should give you the python version
 
-or using apt-get
+OR using apt-get
 
-a)sudo apt-get install python2.7
+a)`sudo apt-get install python2.7`
 
 #### Install pip
 
@@ -131,4 +131,3 @@ If so, great! Lets install requirements.
 
 you are done with this step!
 
-you are done with this step!
