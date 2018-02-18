@@ -133,9 +133,7 @@ From here, you are going to make a directory for your own music Watson processes
 For every operating system in this tutorial, `mkdir [PICK A NAME FOR YOUR MUSIC DIRECTORY]`. 
 
 For example, my music directory is creatively called `music`
-
 <br></br>
-
 2. Now, `cd [NEW MUSIC DIRECTORY]`. You might have a few songs you want to do with Watson. So what I did was made folders per the output Watson gives me for each song. So you can do what I did and make another directory for your first song!
 <br></br>
 `mkdir [FIRST SONG NAME]`
@@ -183,6 +181,24 @@ You should have a slew of files like this, let this list below be a guide as far
 
 Step Eight: Import MIDI files from Watson to audio editor
 -------------
+
+All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome!
+
+## SOUNDATION: Using the above image from Soundation, you can import several MIDI files into Soundation!!
+<br></br>
+
+## GARAGEBAND: You can drag and drop your MIDI files from Watson into Garageband!
+<br></br>
+
+This is for Mac users only: Go to App Store and search for Garageband, its a free download. :)
+
+![image](https://i.imgur.com/CGRUJcd.jpg)
+<br></br>
+
+## MIXCRAFT (Download time, 7 minutes): You can drag and drop your MIDI files into Mixcraft as well!
+
+[Download Mixcraft](https://www.acoustica.com/mixcraft/download.php)
+<br></br>
 
 Step Nine: Apply virtual instruments to the song 
 ----------
