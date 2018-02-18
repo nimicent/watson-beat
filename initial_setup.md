@@ -53,17 +53,17 @@ Directions were found [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.h
 
 #### Install python
 
-brew install python
+`brew install python`
 
 d) check if python has been installed
 
-python -V
+`python -V`
 
 This command should give you the python version
 
 #### Install pip
 
-a) sudo easy_install pip
+a) `sudo easy_install pip`
 
 How to Install Python on Mac:
 http://docs.python-guide.org/en/latest/starting/install/osx/
