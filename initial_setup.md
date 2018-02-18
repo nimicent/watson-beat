@@ -3,7 +3,7 @@ Watson Beat Developer Repo Initial Setup
 
 Just make sure everyone is on the same page, please make sure you have downloaded the Watson Beat project before proceeding.
 
-Anytime `you see something in gray like this` that indicates its a terminal command for you to execute
+Anytime `you see something in gray like this` that indicates importance or its a terminal command for you to execute
 
 Go to A. if your operating system is Windows.
 Go to B. if your operating system is anything other than Windows.
