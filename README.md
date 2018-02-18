@@ -89,7 +89,7 @@ NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digita
 <br></br>
 2. Pick a song! It might be hard to do without knowing what the song sounds like though.
 <br></br>
-So look into this directory outside of your terminal! Since we have already established where this is on your system by going through this via your terminal, it should be fairly easy for you to find in your file system! If not, you can likely search for it by the keyword 'midi'. When you click on them, do they play? If not, no worries, I will show you how to play them.
+So look into this MIDI directory outside of your terminal! Since we have already established where this is on your system by going through this via your terminal, it should be fairly easy for you to find in your file system! If not, you can likely search for it by the keyword 'midi'. When you click on them, do they play? If not, no worries, I will show you how to play them.
 <br></br>
 3. [TO PLAY MIDI FILES]: Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
 <br></br>
