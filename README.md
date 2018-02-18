@@ -4,25 +4,25 @@ The Watson Beat Workshop
 ## AGENDA
 
 Step 1: Download the project
-<br>
+<br></br>
 Step 2: Set up for development and install dependencies
-<br>
+<br></br>
 Step 3: Choosing a song (MIDI file)!
-<br>
+<br></br>
 Step 4: Choose how Watson interpretes your song (ini file!)
 <br></br>
 Step 5: Create a folder for music and run terminal command with MIDI and ini selected
-<br>
+<br></br>
 Step 6: You now have a song from Watson. Open the auio editor
-<br>
+<br></br>
 Step 7: Import MIDI files from Watson to audio editor
-<br>
+<br></br>
 Step 8: Apply virtual instruments to the song 
-<br>
+<br></br>
 Step 9: Export the file as a .wav or .mp3
-<br>
+<br></br>
 Step 10: Listen to it 800 thousand times, email it to friends & fam or put on your resume "made music with Watson DBN"!
-<br>
+<br></br>
 
 
 If you are a beginner - I will provide guidance for Windows and Mac OS. 
@@ -80,17 +80,17 @@ Step Four: Choose a song (`MIDI` file)
 ------------------------------
 
 1. In your terminal where you are in your project directory, `cd src`. 
-</br>
+<br></br>
 2. If you are on Windows, now `dir`, for UNIX (Mac & Linux, etc), `ls`
-</br>
+<br></br>
 NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digital Interface. It is a protocol (not an audio file) designed for recording and playing back music on digital synthesizers that is supported by many makes of personal computer sound cards. AKA, these are the songs we are telling Watson to translate. If you already know this, you have used audio editors before, and you have Reaper or audio editors that can modify MIDI files already, you can use whatever MIDI files you have on your system, or from here https://freemidi.org/ and modify the file down to about 30 seconds for Watson to consume. If you want an entire song past 30 minutes, you will have to do this in batches.
-</br>
+<br></br>
 2. Pick a song! It might be hard to do without knowing what the song sounds like though.
-</br>
+<br></br>
 So open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
-</br>
+<br></br>
 Following this image below, open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
-</br>
+<br></br>
 ![image](https://i.imgur.com/tTl1eO5.png)
 
 
