@@ -182,12 +182,14 @@ You should have a slew of files like this, let this list below be a guide as far
 Step Eight: Import MIDI files from Watson to audio editor
 -------------
 
-All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome!
+All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome
 
-## SOUNDATION: Using the above image from Soundation, you can import several MIDI files into Soundation!!
+#### SOUNDATION: Using the image from Soundation above, you can import several MIDI files into Soundation
 <br></br>
 
-## GARAGEBAND: You can drag and drop your MIDI files from Watson into Garageband!
+Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
+
+#### GARAGEBAND: You can drag and drop your MIDI files from Watson into Garageband!
 <br></br>
 
 This is for Mac users only: Go to App Store and search for Garageband, its a free download. :)
@@ -202,9 +204,18 @@ This is for Mac users only: Go to App Store and search for Garageband, its a fre
 
 Step Nine: Apply virtual instruments to the song 
 ----------
+Soundation, here is an image to show how to add new instruments
+<br></br>
+![image](https://i.imgur.com/48aeSqq.png)
+<br></br>
+Mixcraft, this is the "keyboard icon" per your track, [example image](https://i.ytimg.com/vi/Wavm-97Dl6U/maxresdefault.jpg)
 
-Step Ten: Export the file as a .wav or .mp3
+Garageband, this is super-easy! Its in the library on the lefthand side of your screen. Then you can even download new instruments too. 
+
+Step Ten: Export the file and mark your mark on music history for artificial intelligence development
 --------------
+
+
 
 
 
