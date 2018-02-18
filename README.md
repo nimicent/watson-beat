@@ -10,7 +10,7 @@ Step 2: Set up for development and install dependencies
 Step 3: Choosing a song (MIDI file)!
 <br>
 Step 4: Choose how Watson interpretes your song (ini file!)
-<br>
+&nbsp;&nbsp;
 Step 5: Create a folder for music and run terminal command with MIDI and ini selected
 <br>
 Step 6: You now have a song from Watson. Open the auio editor
