@@ -41,7 +41,7 @@ Please unzip the project folder from here using what program you have to perform
 
 2. If you know terminal commands for the operating system you are working on, ```cd``` into the project folder you downloaded.
 
-If you do not know terminal commands, you are about to learn them! Follow this link: [Instructions on calling the directory](https://github.com/watson-music/watson-beat/blob/master/directory.md)
+If you do not know terminal commands, you are about to learn them! Open this following link in a new tab (right-click the link and select "Open in new tab"): [Instructions on calling the directory](https://github.com/watson-music/watson-beat/blob/master/directory.md)
 
 <hr>
 
