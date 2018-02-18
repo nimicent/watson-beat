@@ -20,7 +20,12 @@ Go to B. if your operating system is anything other than Windows.
 4. To install Python and Pip, go through these detailed steps here - [Set up Python and Pip](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)
 
 A) Download and execute the latest Python 2.* installation package from [here](https://www.python.org/downloads/windows/).
-B) Start with the directions on this [page](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation), where this text in the image below is. <br> This gives you a guided path to modifying the environmental variables of what programs you can execute via your terminal. We need to be able to use Python and Pip through your terminal, so this is why we need to do this step!
+<br>
+B) Start with the directions on this [page](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation), where this text in the image below is.
+
+<br> This gives you a guided path to modifying the environmental variables of what programs you can execute via your terminal. We need to be able to use Python and Pip through your terminal, so this is why we need to do this step!
+
+<br>
 
 5. Open a new command prompt ("cmd" from Step 1, yes you need to open a new terminal to see if it was installed per your commands in the other terminal) and test out if python and pip are installed! ```python -V``` and ```pip freeze```. 
 
