@@ -222,7 +222,7 @@ Step Nine: Apply virtual instruments to the song
 
 Step Ten: Export the file
 --------------
-.... and mark your mark on music history
+.... and make your mark on Watson music history 
 
 **Soundation**: Export by going up to `File` in the navigation bar and click `Export to .wav file`
 
