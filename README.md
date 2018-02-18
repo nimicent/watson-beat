@@ -31,6 +31,8 @@ If you have Linux, I am going to make a vote of confidence and assume you know w
 Using machine learning to spur human creativity is _so_ 2018!  Watson has used
 a combination of reinforcement learning and neural networks to create the Watson Beat.
 
+[What is Watson Beat and how does any of this happen?](https://medium.com/@anna_seg/the-watson-beat-d7497406a202)
+
 This repo, is all the code for the The Watson Beat.  It all runs locally using 
 the terminal.  To run it, there are a few things you need set up on your local computer first, like python 🐍!
 
@@ -216,13 +218,13 @@ Step Nine: Apply virtual instruments to the song
 
 Step Ten: Export the file
 --------------
-.... and mark your mark on music history for artificial intelligence development!
+.... and mark your mark on music history
 
-Soundation: Export by going up to `File` in the navigation bar and click `Export to .wav file`
+**Soundation**: Export by going up to `File` in the navigation bar and click `Export to .wav file`
 
-Garageband: Go to `Share` in your navigation bar and click `Export Song to Disk` or any of the other options
+**Garageband**: Go to `Share` in your navigation bar and click `Export Song to Disk` or any of the other options
 
-Mixcraft: Go to `File` in your navigation bar and click `Mix Down To` and select with audio file you want to do this.
+**Mixcraft**: Go to `File` in your navigation bar and click `Mix Down To` and select with audio file you want to do this.
 
 
 
@@ -231,6 +233,8 @@ HAPPY COMPOSING!
 
 Video Tutorials
 -------------------
+
+
 [How to Change the Length of a Composition](https://www.youtube.com/watch?v=suND0biUTKQ&feature=youtu.be)
 
 [Importing MIDI Files](https://www.youtube.com/watch?v=0mWz3h1ZiJE&feature=youtu.be)
