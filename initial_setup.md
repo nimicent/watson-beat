@@ -41,6 +41,7 @@ python-midi
 requests
 
 ### MAC OS
+<hr>
 
 #### Install homebrew
 
@@ -79,6 +80,7 @@ http://docs.python-guide.org/en/latest/starting/install/osx/
 you are done with this step!
 
 ### Linux
+<hr>
 
 Okay, I am assuming you know a bit of what you are doing per you using Linux
 
