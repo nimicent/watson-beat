@@ -1,11 +1,11 @@
-The Watson Beat - Julia's Edit
+The Watson Beat Workshop
 ===============
 
 ## AGENDA
 
 Step 1: Download the project
 <br>
-Step 2: Start using your terminal
+Step 2: Set up for development
 <br>
 Step 3: Install Dependencies
 <br>
@@ -21,7 +21,9 @@ Step 8: Import MIDI files from Watson to audio editor
 <br>
 Step 9: Apply virtual instruments to the song 
 <br>
-Step 10: Export the file as a .wav or .mp3 and email it to friends & fam or put on resume "made music with Watson DBN"!
+Step 10: Export the file as a .wav or .mp3
+<br>
+Optional: Listen to it 800 times, email it to friends & fam or put on resume "made music with Watson DBN"!
 <br>
 
 
@@ -30,6 +32,9 @@ If you have Linux, I am going to make a vote of confidence and assume you know w
 
 Using machine learning to spur human creativity is _so_ 2018!  Watson has used
 a combination of reinforcement learning and neural networks to create the Watson Beat.
+
+This repo, is all the code for the The Watson Beat.  It all runs locally using 
+the terminal.  To run it, there are a few things you need set up on your local computer first, like python 🐍!
 
 Inputs
 ------
@@ -41,12 +46,9 @@ Outputs
  - Several layers of music in midi format that Watson created using your input
    as inspiriation
 
-Getting Started
-===============
-This repo, is all the code for the The Watson Beat.  It all runs locally using 
-the terminal.  To run it, there are a few things you need set up on your local computer first, like python 🐍!
+# Start Here!
 
-Download the Watson Beat Project
+Step One: Download the Watson Beat Project
 =================================
 
 1. Go to the top of this page for the Watson Beat repository, and download it. Images of how to do this are below.
@@ -70,19 +72,42 @@ If you do not know terminal commands, you are about to learn them! Open this fol
 <hr>
 
 
-Set you machine up for development
+Step Two: Set up for development
 ------------------------------------------------------
 [Here are some directions to get your machine set up to run code](./initial_setup.md) 
 
 
-Install Project Level Dependencies
+Step Three: Install Project Level Dependencies
 ----------------------------------
-Open your terminal, and navigate to the directory where your Watson Beat downloaded project is on your computer.  If you do an `ls` you should see this file, `README.md`, and the
-specfic python requirements for this project are in `requirements.txt`.  
+Open your terminal, and navigate to the directory where your Watson Beat downloaded project is on your computer.  
 You can install the specific python packages you need for your
-Watson Beat Client with the following command (again, make sure you are in this directory):
+Watson Beat Client with the following command (again, make sure you are in the project directory):
 
 `pip install -r requirements.txt`
+
+Step Four: Choose a song (`MIDI` file)
+------------------------------
+
+Step Five: Choose how Watson interpretes your song (`ini` file)
+--------------------
+
+
+Step Six: Create a folder for music and run terminal command with MIDI and ini selected
+------------
+
+
+Step Seven: You now have a song from Watson. Open the auio editor per your operating system or Soundation!
+--------------
+
+Step Eight: Import MIDI files from Watson to audio editor
+-------------
+
+Step Nine: Apply virtual instruments to the song 
+----------
+
+Step Ten: Export the file as a .wav or .mp3
+--------------
+
 
 
 Ready to Run
