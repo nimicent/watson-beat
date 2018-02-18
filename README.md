@@ -86,12 +86,10 @@ Step Four: Choose a song (`MIDI` file)
 NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digital Interface. It is a protocol (not an audio file) designed for recording and playing back music on digital synthesizers that is supported by many makes of personal computer sound cards. AKA, these are the songs we are telling Watson to translate. If you already know this, you have used audio editors before, and you have Reaper or audio editors that can modify MIDI files already, you can use whatever MIDI files you have on your system, or from here https://freemidi.org/ and modify the file down to about 30 seconds for Watson to consume. If you want an entire song past 30 minutes, you will have to do this in batches.
 <br>
 2. Pick a song! It might be hard to do without knowing what the song sounds like though.
-
+<br>
 So open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
-
-Following this image below, open File and "Import MIDI file". 
-
-[FileHippo](https://filehippo.com/software/archiving/) 
+<br>
+Following this image below, open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
 
 ![image](https://i.imgur.com/tTl1eO5.png)
 
