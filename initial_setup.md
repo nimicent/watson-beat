@@ -11,7 +11,7 @@ Go to B. if your operating system is anything other than Windows.
 
 ## A. Windows
 
-1. Go to your Start Menu, type in the search "cmd". Right click on it, and "Run as Administrator". 
+1. If you have not already done this: Go to your Start Menu, type in the search "cmd". Right click on the terminal icon, and "Run as Administrator". 
 2. First, make sure if python has been installed at any point in time. type ```python -V```
 3. If you had a ```python is not recognized as an internal or external command``` error then we need to install python!
 
