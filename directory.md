@@ -67,7 +67,7 @@ C) Okay, are you in the correct directory per where your project was downloaded?
 
 D) Now `cd [PROJECT DIRECTORY]`
 
-
+There you have it! You can now go back to the [README](https://github.com/watson-music/watson-beat) and proceed with the tutorial.
 
 # Linux
 <hr>
@@ -75,3 +75,5 @@ D) Now `cd [PROJECT DIRECTORY]`
 Open your terminal per searching for it, opening your overview of applications on lefthand side, or if you have it pinned. 
 
 `cd` to the root directory for this project.
+
+There you have it! You can now go back to the [README](https://github.com/watson-music/watson-beat) and proceed with the tutorial.
