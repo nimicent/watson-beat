@@ -186,6 +186,7 @@ Step Eight: Import MIDI files from Watson to audio editor
 **All Operating Systems can use Soundtrap or Soundation in the browser as long as they can use Firefox or Chrome**
 <br></br>
 Others...
+<br></br>
 Mac: Garageband
 <br></br>
 Windows: Mixcraft
