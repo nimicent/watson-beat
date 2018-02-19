@@ -101,7 +101,7 @@ It is a browser-based audio editor as well, you can drop in your MIDI files easi
 <br></br>
 In using Soundtrap, all you need to do is drag-and-drop a MIDI file into your editor and press the play button at the bottom of your screen!
 <br></br>
-Following this image below, open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
+For **Soundation** folks, follow this image below. Open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
 <br></br>
 ![image](https://i.imgur.com/tTl1eO5.png)
 <br></br>
