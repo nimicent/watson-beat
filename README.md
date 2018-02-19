@@ -233,7 +233,9 @@ Step Nine: Apply virtual instruments to the song
 --------------
 
 **Soundtrap**
-You see the lefthand side, the image of possibly a piano on your MIDI track? Let's see how we change this.
+You see the lefthand side, the image of possibly a piano on your MIDI track?
+<br></br>
+Let's see how we change this.
 <br></br>
 ![image](https://i.imgur.com/T5CWv5o.png)
 <br></br>
@@ -245,7 +247,7 @@ Now click on the name of the instrument it currently is set to. In my case, it i
 ![image](https://i.imgur.com/2ZNDjQs.png)
 <br></br>
 Now we have a bunch of free virtual instruments to assign to the track!! You can remain on this screen actually, and press the play button and also go through the track while assigning different instruments to hear how they sound with your music!
-
+<hr>
 **Soundation**, here is an image to show how to add new instruments
 <br></br>
 ![image](https://i.imgur.com/48aeSqq.png)
