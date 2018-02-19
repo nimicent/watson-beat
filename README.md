@@ -197,11 +197,9 @@ SOUNDTRAP
 Highly recommended.
 
 [Soundtrap](https://www.soundtrap.com)
-
-Referring to the image provided, you can go to the navigation bar and select `Export` to export your song as an mp3 or WAV file! 
-
-![image](https://i.imgur.com/1KBQ2oY.png)
-
+<br></br>
+![image](https://i.imgur.com/KYBZJKg.jpg)
+<br></br>
 SOUNDATION 
 ----------
 Using the image from Soundation above in Step Three, you can import several MIDI files into Soundation
@@ -261,7 +259,14 @@ Here is an image to show how to add new instruments
 
 Step Ten: Export the file
 --------------
-.... and make your mark on Watson music history 
+.... and make your mark on Watson music history!
+
+**Soundtrap**
+
+Go to the navigation bar and select `Export` to export your song as an mp3 or WAV file.
+
+![image](https://i.imgur.com/1KBQ2oY.png)
+
 
 **Soundation**: Export by going up to `File` in the navigation bar and click `Export to .wav file`
 
