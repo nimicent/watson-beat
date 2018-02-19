@@ -249,8 +249,9 @@ Now click on the name of the instrument it currently is set to. In my case, it i
 <br></br>
 Now we have a bunch of free virtual instruments to assign to the track!! You can remain on this screen actually, and press the play button and also go through the track while assigning different instruments to hear how they sound with your music!
 <br></br>
+**Soundation**
 <br></br>
-**Soundation**, here is an image to show how to add new instruments
+Here is an image to show how to add new instruments
 <br></br>
 ![image](https://i.imgur.com/48aeSqq.png)
 <br></br>
