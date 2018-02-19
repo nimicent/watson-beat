@@ -204,7 +204,7 @@ Referring to the image provided, you can go to the navigation bar and select `Ex
 
 SOUNDATION 
 ----------
-Using the image from Soundation above, you can import several MIDI files into Soundation
+Using the image from Soundation above in Step Three, you can import several MIDI files into Soundation
 <br></br>
 Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
 
