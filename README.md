@@ -97,7 +97,7 @@ So look into this MIDI directory outside of your terminal! Since we have already
 
 **Soundtrap** is shown in the above image. I find this a better and easier audio editor - though I am fairly sure this requires you to share your email address to start with it. 
 
-It is a browser-based audio editor as well, what I like is the diversity in assigning the virtual instruments is a ton easier than Soundation for beginners.
+It is a browser-based audio editor as well, what I like is the diversity in assigning the virtual instruments is a ton easier and more intuitive than Soundation for beginners.
 <br></br>
 In using Soundtrap, all you need to do is drag-and-drop a MIDI file into your editor and press the play button at the bottom of your screen.
 <br></br>
