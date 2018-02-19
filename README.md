@@ -183,13 +183,14 @@ Let this list below be a guide as far as the virtual instruments you apply to ma
 Step Eight: Import MIDI files from Watson to audio editor
 -------------
 
-All Operating Systems can use Soundtrap or Soundation in the browser as long as they can use Firefox or Chrome
+**All Operating Systems can use Soundtrap or Soundation in the browser as long as they can use Firefox or Chrome**
 <br></br>
+Others...
 Mac: Garageband
 <br></br>
 Windows: Mixcraft
 <br></br>
-Linux: Soundtrap, Soundation
+Linux: Soundtrap, Soundation, online DAWs. LMMS has a learning curve.
 
 SOUNDTRAP
 ---------
