@@ -91,9 +91,15 @@ NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digita
 <br></br>
 So look into this MIDI directory outside of your terminal! Since we have already established where this is on your system by going through this via your terminal, it should be fairly easy for you to find in your file system! If not, you can likely search for it by the keyword 'midi'. When you click on them, do they play? If not, no worries, I will show you how to play them.
 <br></br>
-3. [TO PLAY MIDI FILES]: Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
+3. [TO PLAY MIDI FILES]: Open up [Soundtrap](https://www.soundtrap.com) or Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
 
-Or you can use [Soundtrap], though I am fairly sure this requires you to share your email address to start with it, but its browser-based audio editor as well, you can drop in your MIDI files easily, and start assigning instruments even more easily than you can with Soundation, in my humble opinion! 
+![image](https://i.imgur.com/AN1A5zS.png)
+
+**Soundtrap** is shown in the above image. I find this a better and easier audio editor - though I am fairly sure this requires you to share your email address to start with it. 
+
+It is a browser-based audio editor as well, you can drop in your MIDI files easily, and start assigning instruments even more easily than you can with Soundation, in my humble opinion! 
+<br></br>
+In using Soundtrap, all you need to do is drag-and-drop a MIDI file into your editor and press the play button at the bottom of your screen!
 <br></br>
 Following this image below, open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
 <br></br>
