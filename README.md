@@ -92,6 +92,8 @@ NOTE: See the directory called `Midi`? MIDI stands for Musical Instrument Digita
 So look into this MIDI directory outside of your terminal! Since we have already established where this is on your system by going through this via your terminal, it should be fairly easy for you to find in your file system! If not, you can likely search for it by the keyword 'midi'. When you click on them, do they play? If not, no worries, I will show you how to play them.
 <br></br>
 3. [TO PLAY MIDI FILES]: Open up Soundation for [Chrome](https://chrome.soundation.com/) or [Firefox](https://soundation.com/studio)!
+
+Or you can use [Soundtrap], though I am fairly sure this requires you to share your email address to start with it, but its browser-based audio editor as well, you can drop in your MIDI files easily, and start assigning instruments even more easily than you can with Soundation, in my humble opinion! 
 <br></br>
 Following this image below, open File and "Import MIDI file". Then press the PLAY icon at the bottom of the screen!
 <br></br>
@@ -164,7 +166,7 @@ Using the example above, formulate your own command! Remember to see the full pa
 
 Now go look in that output folder you specified in your command? See a bunch of files?!!
 
-Step Seven: You now have a song from Watson. Open the audio editor per your operating system or Soundation!
+Step Seven: You now have a song from Watson. Open the audio editor per your operating system or Soundtrap / Soundation!
 --------------
 You should have a slew of files like this now.
 
@@ -175,13 +177,24 @@ Let this list below be a guide as far as the virtual instruments you apply to ma
 Step Eight: Import MIDI files from Watson to audio editor
 -------------
 
-All Operating Systems can use Soundation in the browser as long as they can use Firefox or Chrome
+All Operating Systems can use Soundtrap or Soundation in the browser as long as they can use Firefox or Chrome
 <br></br>
 Mac: Garageband
 <br></br>
 Windows: Mixcraft
 <br></br>
-Linux: Soundation
+Linux: Soundtrap, Soundation
+
+SOUNDTRAP
+---------
+
+Highly recommended.
+
+[Soundtrap](https://www.soundtrap.com)
+
+Referring to the image provided, you can go to the navigation bar and select `Export` to export your song as an mp3 or WAV file! 
+
+![image](https://i.imgur.com/1KBQ2oY.png)
 
 SOUNDATION 
 ----------
