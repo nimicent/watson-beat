@@ -231,6 +231,20 @@ You can drag and drop your MIDI files into Mixcraft as well!
 
 Step Nine: Apply virtual instruments to the song 
 --------------
+
+**Soundtrap**
+You see the lefthand side, the image of likely a piano on your MIDI track? Let's see how we change this.
+<br></br>
+Click on the icon.
+![image](https://i.imgur.com/T5CWv5o.png)
+<br></br>
+Now click on the name of the instrument it currently is set to. In my case, it is "Strings".
+![image](https://i.imgur.com/eHqYp3D.png)
+<br></br>
+Now we have a bunch of free virtual instruments to assign to the track!! You can remain on this screen actually, and press the play button and also go through the track while assigning different instruments to hear how they sound with your music!
+
+![image](https://i.imgur.com/2ZNDjQs.png)
+<br></br>
 **Soundation**, here is an image to show how to add new instruments
 <br></br>
 ![image](https://i.imgur.com/48aeSqq.png)
