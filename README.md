@@ -1,7 +1,7 @@
 The Watson Beat Workshop
 ===============
 
-###NOTE: Windows has fatal error with Watson Beat, not yet resolved from my understanding. Check main repo for further information on the issue before starting the tutorial for Windows please.
+### NOTE: Windows has fatal error with Watson Beat, not yet resolved from my understanding. Check main repo for further information on the issue before starting the tutorial for Windows please.
 
 ## AGENDA
 
